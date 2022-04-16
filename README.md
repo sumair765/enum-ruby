@@ -1,56 +1,39 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Create an Enumerable
 
-> Description the project.
+> This project uses ruby to implement an enumerable.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Ruby
+- vscode
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+Install ruby on your local machine.
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Clone the repository from this [link](https://github.com/sumairq/morse-code.git)
 
 ## Authors
 
-👤 **Author1**
+👤 **Sumair Qaisar Jadoon**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@sumairq](https://github.com/sumairq)
+- Twitter: [@sumair_qaisar](https://twitter.com/sumair_qaisar)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sumairq/)
 
-👤 **Author2**
+👤 **Dennis Akagha**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@denscholar](https://github.com/denscholar)
+- Twitter: [@dennisakagha](https://twitter.com/dennisakagha)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dennisakagha/)
 
 ## 🤝 Contributing
 
